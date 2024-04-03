@@ -112,6 +112,22 @@ html, body, #root {
   background-image: url("https://www.parallelwireless.com/wp-content/uploads/technologies-hero.jpg");
   background-attachment: fixed;
 }
+.ruralBackground{
+  height: 500px;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-image: url("./images/gray.png");
+  background-attachment: fixed;
+}
+.privateBackground{
+  height: 500px;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://www.parallelwireless.com/wp-content/uploads/PrivateLTE-banner-1600x500.jpg");
+  background-attachment: fixed;
+}
 
 
 
